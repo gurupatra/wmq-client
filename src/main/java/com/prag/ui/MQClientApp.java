@@ -1,4 +1,4 @@
-package com.prag;
+package com.prag.ui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
