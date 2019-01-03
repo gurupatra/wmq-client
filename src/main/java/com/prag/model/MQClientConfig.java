@@ -2,7 +2,7 @@ package com.prag.model;
 
 import javax.validation.constraints.NotEmpty;
 
-public class Destination {
+public class MQClientConfig {
     @NotEmpty
     private String hostName;
 

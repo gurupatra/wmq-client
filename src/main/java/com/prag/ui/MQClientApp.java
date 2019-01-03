@@ -19,7 +19,7 @@ public class MQClientApp extends Application {
 
         Scene scene = new Scene(root, 300, 275);
 
-        stage.setTitle("FXML Welcome");
+        stage.setTitle("MQ Client APP");
         stage.setScene(scene);
         stage.show();
         LOG.debug("Application Started ...");
